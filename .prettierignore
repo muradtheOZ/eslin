@@ -1,0 +1,6 @@
+.vscode-test/
+out/
+dist/
+test-fixtures/
+node-modules/
+package.json
