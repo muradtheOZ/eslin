@@ -2,8 +2,9 @@ import Header from './components/common/Header';
 import AppRouter from './services/AppRouter';
 
 function App() {
+   var bro = "hjh";
   return (
-    // var bro = "hjh";
+   
     <>
       <AppRouter>
         <Header />
